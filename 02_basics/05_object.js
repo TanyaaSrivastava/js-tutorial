@@ -5,3 +5,8 @@ const course = {
 }
 const{courseInstructor} = course
 console.log(courseInstructor);
+[
+    {},
+    {},
+    {},
+]
