@@ -12,3 +12,11 @@ myArr.unshift(9)
 myArr.shift()
 console.log(myArr);
 console.log(myArr.includes(9));
+
+const course = {
+    coursename :"js in hindi",
+    price:"999",
+    courseInstructor:"hitesh",
+}
+const{courseInstructor} = course
+console.log(courseInstructor);
