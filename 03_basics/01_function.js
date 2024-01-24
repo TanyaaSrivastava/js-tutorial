@@ -9,6 +9,12 @@ function sayMyName(){
 
 sayMyName()
 function addTwoNumber(number1,number2){
-    console.log(number1+number2);
+    let result = number1 + number2
+    return result
+    console.log("Tanya");
+
 }
-addTwoNumber(5,9)
+const result = addTwoNumber(3,5)
+console.result = addTwoNumber(5,9);
+
+console.log("Result:",result);
