@@ -15,6 +15,6 @@ function addTwoNumber(number1,number2){
 
 }
 const result = addTwoNumber(3,5)
-console.result = addTwoNumber(5,9);
+console.result = addTwoNumber(5,9); is
 
 console.log("Result:",result);
