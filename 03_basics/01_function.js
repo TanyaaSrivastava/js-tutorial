@@ -15,6 +15,15 @@ function addTwoNumber(number1,number2){
 
 }
 const result = addTwoNumber(3,5)
-console.result = addTwoNumber(5,9); is
+console.result = addTwoNumber(5,9); 
 
 console.log("Result:",result);
+
+function loginUserMessage(_username){
+    if(!_username){
+    console.log("please enter _username");
+    return
+    }
+    return `${_username} just logged in`
+}
+console.log(loginUserMessage());
