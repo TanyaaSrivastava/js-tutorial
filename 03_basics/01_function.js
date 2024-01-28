@@ -27,3 +27,8 @@ function loginUserMessage(_username){
     return `${_username} just logged in`
 }
 console.log(loginUserMessage());
+
+function calcuateCartPrice(...num1){
+               return num1
+}
+console.log(calcuateCartPrice(200,300,400,500))
