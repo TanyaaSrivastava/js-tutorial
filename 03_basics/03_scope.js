@@ -5,5 +5,7 @@ function one(){
         const website = "youtube"
         console.log(username);
     }
-    console.log(website);
+   // console.log(website);
+   two()
 }
+one()
