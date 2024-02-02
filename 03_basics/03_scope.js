@@ -9,3 +9,10 @@ function one(){
    two()
 }
 one()
+if(true){
+      const username = "tanya"
+      if(username=== "tanya"){
+        const website = "youtube"
+        console.log(username+website);
+      }
+}
