@@ -7,3 +7,7 @@ const user = {
         console.log(this);
     }
 }
+user.welcomeMessage()
+user.username = "a"
+user.welcomeMessage()
+console.log(this)
