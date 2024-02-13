@@ -13,3 +13,13 @@ switch (month) {
     default:
         console.log("default value");
 }
+
+const emptyobj = {}
+
+if (Object.keys(emptyobj).length === 0) {
+    console.log("object is empty");
+}
+userEmail = []
+if (userEmail.length === 0){
+    console.log("array is empty");
+}
