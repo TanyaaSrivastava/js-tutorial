@@ -7,3 +7,4 @@ map.set ("IN","India")
 map.set("USA","United State of America")
 map.set("FR","France")
 console.log(map);
+np
